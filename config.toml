@@ -10,4 +10,6 @@ theme = "hyde"
   ]
 
 [params]
-  description = "Ph. D Student of Computer Science and Engineering"
+  description = "Ph. D Student Computer Science and Engineering"
+
+googleAnalytics = "Your tracking code"
